@@ -18,8 +18,9 @@ Average
 
 ## Potential mentors
 
-1. [Vicente González Ruiz]().
-2. [José Juan Sánchez Hernández]().
+1. [Vicente González Ruiz](https://w3.ual.es/~vruiz/Investigacion/index.html).
+2. [José Juan Sánchez Hernández](https://josejuansanchez.org/).
+3. [Juan Pablo García Ortiz]().
 
 ## Priority
 
@@ -27,6 +28,13 @@ High
 
 ## Room
 
-
+https://gitter.im/P2PSP/CR_JHV
 
 ## Repo
+
+https://github.com/vicente-gonzalez-ruiz/JHelioviewer-SWHV
+
+## References
+
+https://www.aanda.org/articles/aa/abs/2017/10/aa30893-17/aa30893-17.html
+http://jhelioviewer.org/pub/Mueller+al_CiSE2009.pdf
