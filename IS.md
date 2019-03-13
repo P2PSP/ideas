@@ -1,1 +1,41 @@
-# Image Super-resolution using Coherent Noise and Anisotropic Diffusion Filtering in the Wavelet Domain
+# Super-resolution Imaging through High-frequency Subbands Prediction in the Wavelet Domain
+
+## Abstract
+
+Image super-resolution techniques are used to increase the spatial
+resolution of digital images. In this idea we propose to use motion
+estimation to predict the high-frequency coefficients in the Discrete
+Wavelet Transform (DWT) domain, taking advantage of the correlation
+between low and high frequency DWT subbands.
+
+## Expected deliverables
+
+A super-resolution image generator, that inputs a single image and
+outputs an image with a 2x2 magnification factor.
+
+## Knowledge prerequisites
+
+Python, Git, Discrete Wavelet Transform, Motion Estimation.
+
+## Skill level
+
+High
+
+## Potential mentors
+
+1. [Vicente González Ruiz]().
+2. [José Joaquín García Sobrino]().
+
+## Priority
+
+High
+
+## Room
+
+
+
+## Repo
+
+
+
+https://github.com/YapengTian/Single-Image-Super-Resolution
