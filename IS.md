@@ -23,7 +23,7 @@ High
 
 ## Potential mentors
 
-1. [Vicente González Ruiz]().
+1. [Vicente González Ruiz](https://w3.ual.es/~vruiz/Investigacion/index.html).
 2. [José Joaquín García Sobrino]().
 
 ## Priority
@@ -32,10 +32,13 @@ High
 
 ## Room
 
-
+https://gitter.im/P2PSP/Super-resolution_Imaging
 
 ## Repo
+
+https://github.com/vicente-gonzalez-ruiz/Super-resolution_Imaging
 
 ## References
 
 https://github.com/YapengTian/Single-Image-Super-Resolution
+https://github.com/vicente-gonzalez-ruiz/image_self_similarity
