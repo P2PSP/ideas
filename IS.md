@@ -24,7 +24,7 @@ High
 ## Potential mentors
 
 1. [Vicente González Ruiz](https://w3.ual.es/~vruiz/Investigacion/index.html).
-2. [José Joaquín García Sobrino]().
+2. [Francisco Joaquín García Sobrino](https://www.researchgate.net/profile/Joaquin_Garcia-Sobrino).
 
 ## Priority
 
