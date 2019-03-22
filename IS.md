@@ -40,5 +40,5 @@ https://github.com/vicente-gonzalez-ruiz/Super-resolution_Imaging
 
 ## References
 
-https://github.com/YapengTian/Single-Image-Super-Resolution
-https://github.com/vicente-gonzalez-ruiz/image_self_similarity
+* https://github.com/YapengTian/Single-Image-Super-Resolution
+* https://github.com/vicente-gonzalez-ruiz/image_self_similarity
