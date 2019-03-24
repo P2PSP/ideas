@@ -20,7 +20,7 @@ Average
 
 1. [Vicente González Ruiz](https://w3.ual.es/~vruiz/Investigacion/index.html).
 2. [José Juan Sánchez Hernández](https://josejuansanchez.org/).
-3. [Juan Pablo García Ortiz]().
+3. [Juan Pablo García Ortiz](http://www.hpca.ual.es/~jportiz/).
 
 ## Priority
 
